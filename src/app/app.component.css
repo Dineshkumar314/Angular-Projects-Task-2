@@ -1,0 +1,27 @@
+.container{
+    background-color: rgb(75, 180, 130);
+    margin-left:0px;
+    
+}
+
+.profile-name{
+    
+    margin-left: 400px;
+    margin-right: 600px;
+    margin-top: 20px; 
+    padding:10px 10px 30px 10px;
+    border-style: none;
+    border-radius: 20px;
+    border-color: blue;
+    padding:15px 10px 10px 90px;
+    background-color: aliceblue;
+    
+}
+.image{
+    margin-left: 15px;
+    border-style: none;
+    border-radius:75px;
+}
+.name{
+    margin-left:20px;
+}
